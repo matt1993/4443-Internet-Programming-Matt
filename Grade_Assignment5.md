@@ -6,10 +6,12 @@
 | 3 | A `4443` user and database was created.                                                                |   20     |   0 |
 | 4 | A `users` table was created.                                                                           |   25     |   0 |
 | 5 | The `users` table had the appropriate information added to it.                                         |   25     |   0 |
-|   |                                                                                                        |   100    |  30 |
+|   |                                                                                                        |   100    |  80 |
 
 - I could log in as `griffin`, but I couldn't see the database 4443 and the appropriate tables. 
 - This means 1 of 2 things: 
     - you didn't create the db and tables
     - you didn't give me permissions to see them
 - Email me after you change the permissions and I will add 50 to your grade if I can see the tables.
+
+- Rechecked your assignment and added 50.
